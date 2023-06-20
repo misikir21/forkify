@@ -1,0 +1,26 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misikir21/forkify.git"
+  },
+  "author": "misikir teka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misikir21/forkify/issues"
+  },
+  "homepage": "https://github.com/misikir21/forkify#readme",
+  "dependencies": {
+    "parcel": "^2.9.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.2"
+  }
+}
